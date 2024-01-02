@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnU0niSqLUaWY0melRI4YL4hPeHUiqYsT60c5Fi1TSwsOBr6yd8R/z7/ukVMv+BLNjSEmgZsXToWAqcqyAe5uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dedzec\\Documents\\ProjectsVS\\NavTabs\\NavTabs\\NavTabs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dedzec\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Dedzec\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dedzec\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
